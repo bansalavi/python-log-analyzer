@@ -27,3 +27,4 @@ print(f"Errors   : {error_count}")
 print(f"Warnings : {warning_count}")
 print(f"Info     : {info_count}")
 print(f"Status   : {status}")
+
