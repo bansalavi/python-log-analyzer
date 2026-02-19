@@ -1,0 +1,7 @@
+INFO: Simulation started
+INFO: Module initialized
+WARNING: Timing delay detected
+INFO: Running testbench
+ERROR: Output mismatch at cycle 45
+WARNING: Signal unstable
+INFO: Simulation finished
